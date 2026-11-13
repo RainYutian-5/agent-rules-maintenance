@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Rules Maintenance"
+  short_description: "Prune and validate shared agent instructions safely"
+  default_prompt: "Use $agent-rules-maintenance to prune and review my shared agent rules, validate the changes, and stop for unresolved conflicts."
